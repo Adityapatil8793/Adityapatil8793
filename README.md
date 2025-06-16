@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![View 3D Model]](https://tinyglb.com/viewer/f3e724fcd1bc49a58296c8a192006123)
-
-
